@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/mewkfeli/mewkfeli/blob/1b335e90041c74e1d5fbea91fcaf89a44ec1e0b4/minecraft.jpg" width="25%" align="right" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FFA8AF&center=true&width=435&lines=Hellooo!!!+%EF%BD%A5%EF%BE%9F%EF%BD%A5(%EF%BD%A1%3E%CF%89%3C%EF%BD%A1)%EF%BD%A5%EF%BE%9F%EF%BD%A5" alt="Typing SVG" /></a>
-<br><br>
+<br>
 <pre>
     ˗ˏˋ꒰ 🍒 ꒱ My name is Azaliya, I am 18 years old.
     I am a 3rd year college student majoring in Information Systems and Programming
