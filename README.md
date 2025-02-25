@@ -39,7 +39,4 @@ You can find me here:<br><br>
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="vs" alt="vs" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp;
 </div>
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewkfeli&layout=compact)](https://github.com/mewkfeli/github-readme-stats)
-
 </div>
