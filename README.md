@@ -38,5 +38,7 @@ You can find me here:<br><br>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="vs" alt="vs" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/node_js.png?raw=true" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+
 </div>
 </div>
