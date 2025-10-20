@@ -4,7 +4,7 @@
 <br>
 <pre>
     ˗ˏˋ꒰ 🍒 ꒱ My name is Azaliya, I am 18 years old.
-    I am a 3rd year college student majoring in Information Systems and Programming
+    I am a 4rd year college student majoring in Information Systems and Programming
     And I love frontend development very much!
     <br>
     ˚*•̩̩✩•̩̩*˚＊·̩̩·̩̩＊*•̩̩✩•̩̩*˚˚*•̩̩✩•̩̩*˚＊˚*•̩̩✩•̩̩*˚＊·̩̩·̩̩＊*•̩̩✩•̩̩*˚˚*•̩̩✩•̩̩*˚＊˚*•̩̩✩•̩̩*˚＊·̩̩·̩̩＊*•̩̩✩•̩̩ <br>
@@ -13,11 +13,6 @@
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br>
-
-You can find me here:<br><br>
-<img alt="Blog" src="https://img.shields.io/badge/my%20blog-pink?logo=telegram&logoColor=black&link=https%3A%2F%2Ft.me%2Fmewkfely"> <img alt="Discord" src="https://img.shields.io/badge/meowwwk-pink?logo=discord&logoColor=black&link=https%3A%2F%2Ft.me%2Fmewkfely">
-<br><br><br>
-
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
