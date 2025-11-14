@@ -8,7 +8,6 @@
     And I love frontend development very much!
     <br>
     ˚*•̩̩✩•̩̩*˚＊·̩̩·̩̩＊*•̩̩✩•̩̩*˚˚*•̩̩✩•̩̩*˚＊˚*•̩̩✩•̩̩*˚＊·̩̩·̩̩＊*•̩̩✩•̩̩*˚˚*•̩̩✩•̩̩*˚＊˚*•̩̩✩•̩̩*˚＊·̩̩·̩̩＊*•̩̩✩•̩̩ <br>
-    Besides the code, I love everything related to beauty and self-development!
 </pre>
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
