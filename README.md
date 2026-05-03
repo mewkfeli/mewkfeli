@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FFA8AF&center=true&width=435&lines=Hellooo!!!+%EF%BD%A5%EF%BE%9F%EF%BD%A5(%EF%BD%A1%3E%CF%89%3C%EF%BD%A1)%EF%BD%A5%EF%BE%9F%EF%BD%A5" alt="Typing SVG" /></a>
 <br>
 <pre>
-    ˗ˏˋ꒰ 🍒 ꒱ My name is Azaliya, I am 18 years old.
+    ˗ˏˋ꒰ 🍒 ꒱ My name is Azaliya, I am 19 years old.
     I am a 4rd year college student majoring in Information Systems and Programming
     And I love frontend development very much!
     <br>
